@@ -68,5 +68,3 @@ bind "f" no clip
 // Servidor
 mp_warmup_end                                             // Encerra o aquecimento
 mp_restartgame "1"                                        // Reinicia a partida
-
-//
