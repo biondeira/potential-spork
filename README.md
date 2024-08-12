@@ -1,1 +1,4 @@
-Meu primeiro projeto
+Meu primeiro projeto!
+
+Desc: Testando funções git
+
